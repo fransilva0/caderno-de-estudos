@@ -30,7 +30,6 @@
 
   "Em computação, normalmente utilizamos os dados de forma conjunta. A forma como estes dados serão agregados e organizados depende muito de como serão utilizados e processados, levando-se em consideração, por exemplo, a eficiência para buscas, o volume dos dados trabalhados, a complexidade da implementação e a forma como os dados se relacionam. Estas diversas formas de organização são as chamadas estruturas de dados."
 </p>
-<br>
 <a href="https://www.alura.com.br/artigos/estruturas-de-dados-introducao?gclid=Cj0KCQjwspKUBhCvARIsAB2IYuvzWnJOkieArAtCiK6Fm4lsSSFeC1jkLcZoRT161GxUbqp071xH4iwaApvfEALw_wcB">Link de artigo da Alura sobre o assunto</a>
 
 - Tipos de Estruturas de Dados 
