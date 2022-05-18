@@ -11,12 +11,27 @@
 </p>
 
 - 1) Faça operações matemáticas básicas com os número 4 e 8 (operacoes-mat.js)
+- 2) Faça um programa que entregue a média final de 4 notas (media-final.js)
+- 3) Faça um Programa que leia três números e mostre o maior deles (o-maior-numero.js)
 
-
-## Pasta | Exercicios Com TypeScript
+## Pasta | Exercícios Com TypeScript
 
 <p>
   A pasta "exercicios-com-typescript" armazena exercícios simples desenvolvidos na pasta "exercicios-simples-javascript", porém, utilizando o TypeScript. Primeiro é preciso baixar o node nesta pasta
 </p>
 
 - 1) Faça operações matemáticas básicas com os número 4 e 8 (operacoes-mat.ts)
+- 2) Faça um Programa que leia três números e mostre o maior deles (o-maior-numero.ts)
+
+## Pasta | Estrutura de Dados Com JavaScript
+
+<p>
+  A pasta "estrutura-de-dados-javascript" trás códigos relacionados a estrutura de dados.
+
+  "Em computação, normalmente utilizamos os dados de forma conjunta. A forma como estes dados serão agregados e organizados depende muito de como serão utilizados e processados, levando-se em consideração, por exemplo, a eficiência para buscas, o volume dos dados trabalhados, a complexidade da implementação e a forma como os dados se relacionam. Estas diversas formas de organização são as chamadas estruturas de dados."
+</p>
+<br>
+<a href="https://www.alura.com.br/artigos/estruturas-de-dados-introducao?gclid=Cj0KCQjwspKUBhCvARIsAB2IYuvzWnJOkieArAtCiK6Fm4lsSSFeC1jkLcZoRT161GxUbqp071xH4iwaApvfEALw_wcB">Link de artigo da Alura sobre o assunto</a>
+
+- Tipos de Estruturas de Dados 
+  - Pilha
