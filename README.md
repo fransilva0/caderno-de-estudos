@@ -40,8 +40,7 @@ seja, recebe dois valores e retorna a soma, multiplicação, subtração
 ou divisão desses valores. No caso da divisão deve-se verificar se o 
 segundo valor é diferente de zero. (calculadora.ts)
 
-2.Escreva uma classe cujos objetos representam alunos matriculados em 
-uma disciplina. Cada objeto dessa classe deve guardar os seguintes 
+2. Escreva uma classe cujos objetos representam alunos matriculados em uma disciplina. Cada objeto dessa classe deve guardar os seguintes 
 dados do aluno: matrícula, nome, 2 notas de prova e 1 nota de 
 trabalho. Escreva os seguintes métodos para esta classe:<br>a) media 
 = calcula a média final do aluno (cada prova tem peso 2,5 e o 
