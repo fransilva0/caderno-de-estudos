@@ -1,0 +1,16 @@
+{
+  "name": "poo-js-com-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc"
+  },
+  "keywords": [],
+  "author": "Francileudo Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}

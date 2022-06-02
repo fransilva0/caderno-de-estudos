@@ -10,18 +10,31 @@
   A pasta "exercicios-simples-javascript" armazena exercícios simples desenvolvidos com foco na aprendizagem do básico na linguagem de programação. A lista abaixo apresenta as questões, começando da mais simples e seguindo até a última disponível nesta pasta.
 </p>
 
-- 1) Faça operações matemáticas básicas com os número 4 e 8 (operacoes-mat.js)
-- 2) Faça um programa que entregue a média final de 4 notas (media-final.js)
-- 3) Faça um Programa que leia três números e mostre o maior deles (o-maior-numero.js)
+- 1. Faça operações matemáticas básicas com os número 4 e 8 (operacoes-mat.js)
+- 2. Faça um programa que entregue a média final de 4 notas (media-final.js)
+- 3. Faça um Programa que leia três números e mostre o maior deles (o-maior-numero.js)
+- 4.
+
+
 
 ## Pasta | Exercícios Com TypeScript
 
 <p>
-  A pasta "exercicios-com-typescript" armazena exercícios simples desenvolvidos na pasta "exercicios-simples-javascript", porém, utilizando o TypeScript. Primeiro é preciso baixar o node nesta pasta
+  A pasta "exercicios-com-typescript" armazena exercícios simples desenvolvidos na pasta "exercicios-simples-javascript", porém, utilizando o TypeScript. Primeiro é preciso baixar o node nesta pasta. 
 </p>
 
-- 1) Faça operações matemáticas básicas com os número 4 e 8 (operacoes-mat.ts)
-- 2) Faça um Programa que leia três números e mostre o maior deles (o-maior-numero.ts)
+- 1. Faça operações matemáticas básicas com os número 4 e 8 (operacoes-mat.ts)
+- 2. Faça um Programa que leia três números e mostre o maior deles (o-maior-numero.ts)
+
+## Pasta | Poo em JavaScript com TypeScript
+
+<p>
+  A pasta "poo-js-com-ts" armazena exercícios de Programação Orientada a Objetos, realizada em JavaScript, com o Typescript. Essa pasta necessita do node.
+</p>
+
+- 1. Crie um programa em JavaScript que simula uma calculadora. Ou seja, recebe 
+  dois valores e retorna a soma, multiplicação, subtração ou divisão desses valores. No caso da divisão deve-se verificar se o segundo valor é diferente de zero. (calculadora.ts)
+- 2.
 
 ## Pasta | Estrutura de Dados Com JavaScript
 
