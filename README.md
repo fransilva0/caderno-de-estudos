@@ -11,8 +11,11 @@
 </p>
 
 1. Faça operações matemáticas básicas com os número 4 e 8 (operacoes-mat.js)
+
 2. Faça um programa que entregue a média final de 4 notas (media-final.js)
+
 3. Faça um Programa que leia três números e mostre o maior deles (o-maior-numero.js)
+
 4. 
 
 
@@ -23,6 +26,7 @@
 </p>
 
 1. Faça operações matemáticas básicas com os número 4 e 8 (operacoes-mat.ts)
+
 2. Faça um Programa que leia três números e mostre o maior deles (o-maior-numero.ts)
 
 ## Pasta | Poo em JavaScript com TypeScript
@@ -33,11 +37,13 @@
 
 1. Crie um programa em JavaScript que simula uma calculadora. Ou seja, recebe 
   dois valores e retorna a soma, multiplicação, subtração ou divisão desses valores. No caso da divisão deve-se verificar se o segundo valor é diferente de zero. (calculadora.ts)
+
 2.Escreva uma classe cujos objetos representam alunos matriculados em uma disciplina. Cada objeto
 dessa classe deve guardar os seguintes dados do aluno: matrícula, nome, 2 notas de prova e 1 nota de
 trabalho. Escreva os seguintes métodos para esta classe:
   a) media = calcula a média final do aluno (cada prova tem peso 2,5 e o trabalho tem peso 2)
   b) final = calcula quanto o aluno precisa para a prova final (retorna zero se ele não for para a final)
+
 3.
 
 ## Pasta | Estrutura de Dados Com JavaScript
