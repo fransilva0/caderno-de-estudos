@@ -1,7 +1,7 @@
 # Caderno de Estudos | Programação
 
 <p>
-  O presente repositório foi construído para armazenar meus exercícios em linguagens de programação relacionadas ao meus estudos de Frontend. Os materiais estão separados em pastas, algumas precisam de instalações antes de começar a utilização e outros não. 
+  O presente repositório foi construído para armazenar meus exercícios em linguagens de programação relacionadas ao meus estudos de programação. Os materiais estão separados em pastas, sendo que algumas precisam de instalação de dependências antes de começar a utilização. 
 </p>
 
 ## Pasta | Exercícios Simples em JavaScript
