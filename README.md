@@ -16,7 +16,10 @@
 
 3. Faça um Programa que leia três números e mostre o maior deles (o-maior-numero.js)
 
-4. 
+4. Faça um Programa que leia 2 números inteiros e um número real. Calcule e mostre:(operacoe-mat2.js)<br>
+a) o produto do dobro do primeiro com metade do segundo.<br>
+b) a soma do triplo do primeiro com o terceiro.<br>
+c) o terceiro elevado ao cubo.<br>
 
 
 ## Pasta | Exercícios Com TypeScript
