@@ -1,3 +1,9 @@
+/* 
+  O programa percorre uma string recebida no parâmetro de um método e recria 
+  outra atribuindo o valor de cada carácter dessa string original ao seu 
+  respectivo carácter contido em um dicionário.
+*/
+
 let cifraCesar = str => {
   let tabela = {
     a: 'n',
