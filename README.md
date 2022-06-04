@@ -4,6 +4,14 @@
   O presente repositório foi construído para armazenar meus exercícios em linguagens de programação relacionadas ao meus estudos de programação. Os materiais estão separados em pastas, sendo que algumas precisam de instalação de dependências antes de começar a utilização. 
 </p>
 
+<div>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/fransilva0/caderno-de-estudos?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/fransilva0/caderno-de-estudos?style=plastic)
+![GitHub](https://img.shields.io/github/license/fransilva0/caderno-de-estudos?style=plastic)
+
+</div>
+
 ## Pasta | Exercícios Simples em JavaScript
 
 <p>
