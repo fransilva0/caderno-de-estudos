@@ -47,7 +47,7 @@ trabalho. Escreva os seguintes métodos para esta classe:<br>a) media
 trabalho tem peso 2)<br>b) final = calcula quanto o aluno precisa 
 para a prova final (retorna zero se ele não for para a final)
 
-3.
+3. Crie uma classe para representar uma pessoa, com os atributos privados de nome, idade e id. Crie os métodos públicos necessários para setters e getters e também um método para imprimir os dados de uma pessoa. Em seguida, escreva um programa main que faça uso da classe Pessoa, preencha as informações da instancia do objeto pessoa.
 
 ## Pasta | Estrutura de Dados Com JavaScript
 
